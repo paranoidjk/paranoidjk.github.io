@@ -679,6 +679,13 @@ a {
 #header .header-nav .social a.mail:hover {
   border: 1px solid #006b98;
 }
+#header .header-nav .social a.instagram {
+  background: url("/img/instagram.png") center no-repeat #9c7256;
+  border: 1px solid #9c7256;
+}
+#header .header-nav .social a.instagram:hover {
+  border: 1px solid #9c7256;
+}
 #header .switch-part {
   width: 100%;
   position: absolute;
