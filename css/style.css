@@ -225,7 +225,6 @@ a {
   margin: 10px;
 }
 #container #mobile-nav #header .header-menu ul {
-  text-align: center;
   cursor: default;
 }
 #container #mobile-nav #header .header-menu li {
@@ -537,7 +536,7 @@ a {
   float: none;
   height: 150px;
   margin-left: -12px;
-  text-align: center;
+  text-align: left;
   display: -webkit-box;
   -webkit-box-orient: horizontal;
   -webkit-box-pack: center;
