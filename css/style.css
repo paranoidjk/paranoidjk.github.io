@@ -680,11 +680,11 @@ a {
   border: 1px solid #006b98;
 }
 #header .header-nav .social a.instagrami {
-  background: url("/img/instagrami.png") center no-repeat #9c7256;
-  border: 1px solid #9c7256;
+  background: url("/img/instagrami.png") center no-repeat #fff9c4;
+  border: 1px solid #fff9c4;
 }
 #header .header-nav .social a.instagrami:hover {
-  border: 1px solid #9c7256;
+  border: 1px solid #fff9c4;
 }
 #header .switch-part {
   width: 100%;
