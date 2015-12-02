@@ -117,7 +117,7 @@
 				
 				<section class="switch-part switch-part2">
 					<div class="widget tagcloud" id="js-tagcloud">
-						
+						<a href="/tags/前端/" style="font-size: 10px;">前端</a>
 					</div>
 				</section>
 				
@@ -196,11 +196,11 @@
 </nav>
       <div class="body-wrap">
   
-    <article id="post-demo" class="article article-type-post" itemscope itemprop="blogPost">
+    <article id="post-前端周刊" class="article article-type-post" itemscope itemprop="blogPost">
   
     <div class="article-meta">
-      <a href="/2015/12/02/demo/" class="article-date">
-  	<time datetime="2015-12-02T03:27:10.000Z" itemprop="datePublished">2015-12-02</time>
+      <a href="/2015/12/02/前端周刊/" class="article-date">
+  	<time datetime="2015-12-02T09:19:47.000Z" itemprop="datePublished">2015-12-02</time>
 </a>
     </div>
   
@@ -213,7 +213,7 @@
         
   
     <h1 itemprop="name">
-      <a class="article-title" href="/2015/12/02/demo/">demo</a>
+      <a class="article-title" href="/2015/12/02/前端周刊/">前端周刊</a>
     </h1>
   
 
@@ -222,13 +222,21 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        
+        <p>  <link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap.min.css"></p>
+<p><div class="container"><br>    <div id="guide"><br>      <div class="page-header"><br>        <h3>觉得fex的周刊很赞，可惜他们不提供邮件订阅的功能，于是自己做了一个给自己用，后来想，干脆做成大家用的，so this is ~ </h3><br>      </div><br>      <p>几乎全部文章来源：</p><br>      <blockquote><br>        <ul><br>          <li><a href="http://fex.baidu.com/weekly/" target="_blank" rel="external">Fex周刊</a></li><br>          <li><a href="http://www.75team.com/weekly/" target="_blank" rel="external">奇舞团周刊</a></li><br>          <li><a href="http://javascriptweekly.com/" target="_blank" rel="external">javascript weekly</a></li><br>          <li><a href="http://html5weekly.com/" target="_blank" rel="external">html5 weekly</a></li><br>        </ul><br>        <span>…</span><br>      </blockquote><br>    </div><br>    <div id="subscribe"><br>      <form action=""><br>        <div class="form-group"><br>          <label for="email">Email address</label><br>          <input type="email" id="email" class="form-control" placeholder="Email"><br>        </div><br>        <button type="button" id="subBtn" class="btn btn-primary">订阅</button><br>        <button type="button" id="unsubBtn" class="btn btn-warning">取消订阅</button><br>      </form><br>    </div><br>    <br><br>    <div class="info"><br>      <div class="alert alert-success" role="alert">订阅成功！</div><br>    </div><br>  </div><br>  <script src="http://libs.baidu.com/jquery/1.9.0/jquery.js"></script><br>  <script><br>function getEmail() {<br>  var email  = $(‘#email’).val();<br>  return email ? email : false;<br>}</p>
+<p>function subscribe() {<br>  var email = getEmail;<br>  if (!email) {<br>    window.alert(‘邮箱格式不正确!’);<br>    return ;<br>  }<br>}</p>
+<p>$(document).ready(function() {<br>  $(‘#subBtn’).on(‘click’, subscribe);<br>  $(‘#unsubBtn’).on(‘click’, unsubscribe);<br>});<br></script></p>
+
       
     </div>
     
     <div class="article-info article-info-index">
       
       
+	<div class="article-tag tagcloud">
+		<ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/前端/">前端</a></li></ul>
+	</div>
+
       
 
       
