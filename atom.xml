@@ -4,7 +4,7 @@
   <subtitle><![CDATA[隔壁超市薯片半价啦，快去买]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://paranoidjk.github.io/"/>
-  <updated>2015-12-02T09:22:49.000Z</updated>
+  <updated>2015-12-02T09:26:59.000Z</updated>
   <id>http://paranoidjk.github.io/</id>
   
   <author>
@@ -15,22 +15,15 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[前端周刊]]></title>
-    <link href="http://paranoidjk.github.io/2015/12/02/%E5%89%8D%E7%AB%AF%E5%91%A8%E5%88%8A/"/>
-    <id>http://paranoidjk.github.io/2015/12/02/前端周刊/</id>
-    <published>2015-12-02T09:19:47.000Z</published>
-    <updated>2015-12-02T09:22:49.000Z</updated>
-    <content type="html"><![CDATA[<p>  <link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap.min.css"></p>
-<p><div class="container"><br>    <div id="guide"><br>      <div class="page-header"><br>        <h3>觉得fex的周刊很赞，可惜他们不提供邮件订阅的功能，于是自己做了一个给自己用，后来想，干脆做成大家用的，so this is ~ </h3><br>      </div><br>      <p>几乎全部文章来源：</p><br>      <blockquote><br>        <ul><br>          <li><a href="http://fex.baidu.com/weekly/" target="_blank" rel="external">Fex周刊</a></li><br>          <li><a href="http://www.75team.com/weekly/" target="_blank" rel="external">奇舞团周刊</a></li><br>          <li><a href="http://javascriptweekly.com/" target="_blank" rel="external">javascript weekly</a></li><br>          <li><a href="http://html5weekly.com/" target="_blank" rel="external">html5 weekly</a></li><br>        </ul><br>        <span>…</span><br>      </blockquote><br>    </div><br>    <div id="subscribe"><br>      <form action=""><br>        <div class="form-group"><br>          <label for="email">Email address</label><br>          <input type="email" id="email" class="form-control" placeholder="Email"><br>        </div><br>        <button type="button" id="subBtn" class="btn btn-primary">订阅</button><br>        <button type="button" id="unsubBtn" class="btn btn-warning">取消订阅</button><br>      </form><br>    </div><br>    <br><br>    <div class="info"><br>      <div class="alert alert-success" role="alert">订阅成功！</div><br>    </div><br>  </div><br>  <script src="http://libs.baidu.com/jquery/1.9.0/jquery.js"></script><br>  <script><br>function getEmail() {<br>  var email  = $(‘#email’).val();<br>  return email ? email : false;<br>}</p>
-<p>function subscribe() {<br>  var email = getEmail;<br>  if (!email) {<br>    window.alert(‘邮箱格式不正确!’);<br>    return ;<br>  }<br>}</p>
-<p>$(document).ready(function() {<br>  $(‘#subBtn’).on(‘click’, subscribe);<br>  $(‘#unsubBtn’).on(‘click’, unsubscribe);<br>});<br></script></p>
-]]></content>
+    <title><![CDATA[test]]></title>
+    <link href="http://paranoidjk.github.io/2015/12/02/test/"/>
+    <id>http://paranoidjk.github.io/2015/12/02/test/</id>
+    <published>2015-12-02T09:26:59.000Z</published>
+    <updated>2015-12-02T09:26:59.000Z</updated>
+    <content type="html"></content>
     <summary type="html">
-    <![CDATA[<p>  <link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap.min.css"></p>
-<p><div class="container"><br>    <div ]]>
-    </summary>
     
-      <category term="前端" scheme="http://paranoidjk.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
+    </summary>
     
   </entry>
   
