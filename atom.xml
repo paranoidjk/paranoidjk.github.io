@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[Paranoid·JK]]></title>
-  <subtitle><![CDATA[just for fun]]></subtitle>
+  <subtitle><![CDATA[隔壁超市薯片半价了，快去买]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://paranoidjk.github.io/"/>
   <updated>2015-12-02T03:27:10.000Z</updated>
