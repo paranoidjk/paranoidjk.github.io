@@ -4,7 +4,7 @@
   <subtitle><![CDATA[隔壁超市薯片半价啦，快去买]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://paranoidjk.github.io/"/>
-  <updated>2015-12-02T09:26:59.000Z</updated>
+  <updated>2015-12-14T08:17:12.000Z</updated>
   <id>http://paranoidjk.github.io/</id>
   
   <author>
@@ -15,15 +15,112 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[test]]></title>
-    <link href="http://paranoidjk.github.io/2015/12/02/test/"/>
-    <id>http://paranoidjk.github.io/2015/12/02/test/</id>
-    <published>2015-12-02T09:26:59.000Z</published>
-    <updated>2015-12-02T09:26:59.000Z</updated>
-    <content type="html"></content>
+    <title><![CDATA[2016 年度计划 「断捨離」]]></title>
+    <link href="http://paranoidjk.github.io/2015/12/14/2016%E5%B9%B4%E5%BA%A6%E8%AE%A1%E5%88%92/"/>
+    <id>http://paranoidjk.github.io/2015/12/14/2016年度计划/</id>
+    <published>2015-12-14T07:56:50.000Z</published>
+    <updated>2015-12-14T08:17:12.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="back_to_the_sea" alt="2015-12-14-2016年度计划/back_to_the_sea-wallpaper-1920x1200.jpg"></p>
+<h4 id="一、学校·毕业事宜">一、学校·毕业事宜</h4><ol>
+<li>12/28之后 毕设网上选题</li>
+<li>12/30之前 一张实习成绩单</li>
+<li>01/22之前 毕设接收书，请假提前回学校</li>
+<li>01/25之前 寒假之前回学校补照学位照</li>
+<li>02/21之后 寒假结束，报到注册</li>
+</ol>
+<h4 id="二、生活">二、生活</h4><ul>
+<li>03/15之前 房租到期，找一个带厨房的新狗窝</li>
+</ul>
+<h4 id="三、工作">三、工作</h4><ul>
+<li>毕业前，专心跟进三块主要的项目</li>
+<li>眼界保持宽广，继续自己的产出计划</li>
+<li>引进开源，回馈社区</li>
+</ul>
+<h4 id="四、技术·阅读">四、技术·阅读</h4><blockquote>
+<p>随时更新：书名（已完成程度）<br>基本是拖拉已久的 <a href="http://www.douban.com/people/hust2012jiangka/" target="_blank" rel="external">豆瓣</a> 想读计划</p>
+</blockquote>
+<ul>
+<li><p>JS/NodeJS</p>
+<ul>
+<li>Javascript dom 编程艺术（95%）</li>
+<li>javascript高级程序设计 （80%）</li>
+<li>深入浅出NodeJS（15%）</li>
+<li>Javascript语言精粹 | Javascipt, The Good Parts（95%）</li>
+<li>Javascript编程精解</li>
+<li>编写可维护的JavaScript</li>
+<li>JavaScript模式 | Javascript Patterns</li>
+<li>JavaScript设计模式</li>
+<li>高性能Javascript | High Performance Javascript</li>
+<li><p>Jquery从菜鸟到忍者</p>
+<blockquote>
+<p>对应选读 Javascript权威指南</p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li><p>Html/CSS</p>
+<ul>
+<li>HTML5高级程序设计</li>
+<li>响应式Web设计实践</li>
+<li>网站重构</li>
+</ul>
+</li>
+<li><p>工程/模式/系统/性能/安全</p>
+<ul>
+<li>构建之法 : 现代软件工程</li>
+<li>UNIX编程艺术</li>
+<li>高性能网站建设指南1、2</li>
+<li>白帽子讲Web安全</li>
+</ul>
+</li>
+<li>体验/设计<ul>
+<li>用户体验的要素 : 以用户为中心的Web设计</li>
+<li>用户体验要素 : 以用户为中心的产品设计</li>
+<li>点石成金 : 访客至上的网页设计秘笈</li>
+<li>瞬间之美</li>
+</ul>
+</li>
+</ul>
+<h4 id="五、技术·开源代码">五、技术·开源代码</h4><blockquote>
+<ul>
+<li>基本是GitHub <a href="https://github.com/paranoidjk" target="_blank" rel="external">star</a> 扫除计划，之前已经清楚了积累的pocket，evernote，rss，下一步打算逐渐清理github star，微博收藏，chrome书签，轻装上阵</li>
+<li>参考 <a href="http://www.awesomes.cn/" target="_blank" rel="external">http://www.awesomes.cn/</a> , <a href="http://div.io/digg" target="_blank" rel="external">http://div.io/digg</a></li>
+</ul>
+</blockquote>
+<ul>
+<li>动画<ul>
+<li>animate.css </li>
+<li>impress.js</li>
+<li>skrollr</li>
+<li>Hover</li>
+<li>SpinKit/loaders.css</li>
+</ul>
+</li>
+</ul>
+<h4 id="六、技术·博客专栏">六、技术·博客专栏</h4><blockquote>
+<p>集中性的读一些博客，专栏</p>
+</blockquote>
+<ul>
+<li>国外 <ul>
+<li><a href="https://uptodate.frontendrescue.org/zh/" target="_blank" rel="external">https://uptodate.frontendrescue.org/zh/</a></li>
+</ul>
+</li>
+<li>国内<ul>
+<li><a href="http://www.alloyteam.com/" target="_blank" rel="external">http://www.alloyteam.com/</a></li>
+<li><a href="http://taobaofed.org/" target="_blank" rel="external">http://taobaofed.org/</a></li>
+<li><a href="http://fex.baidu.com/" target="_blank" rel="external">http://fex.baidu.com/</a></li>
+<li><a href="http://blog.fens.me/" target="_blank" rel="external">http://blog.fens.me/</a></li>
+</ul>
+</li>
+</ul>
+]]></content>
     <summary type="html">
-    
+    <![CDATA[<p><img src="back_to_the_sea" alt="2015-12-14-2016年度计划/back_to_the_sea-wallpaper-1920x1200.jpg"></p>
+<h4 id="一、学校·毕业事宜">一、学校·毕业事宜</h4><ol>
+<]]>
     </summary>
+    
+      <category term="年度计划" scheme="http://paranoidjk.github.io/tags/%E5%B9%B4%E5%BA%A6%E8%AE%A1%E5%88%92/"/>
     
   </entry>
   
