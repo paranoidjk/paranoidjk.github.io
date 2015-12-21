@@ -536,7 +536,7 @@ a {
   float: none;
   height: 150px;
   margin-left: -12px;
-  text-align: left;
+  text-align: center;
   display: -webkit-box;
   -webkit-box-orient: horizontal;
   -webkit-box-pack: center;
