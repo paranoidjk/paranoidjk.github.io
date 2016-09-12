@@ -1,208 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[ParanoidJk]]></title>
-  <subtitle><![CDATA[隔壁超市薯片半价啦，快去买]]></subtitle>
+  <title>ParanoidJk</title>
+  <subtitle>人生如逆旅，我亦是行人</subtitle>
   <link href="/atom.xml" rel="self"/>
+  
   <link href="http://paranoidjk.github.io/"/>
-  <updated>2015-12-30T15:02:47.000Z</updated>
+  <updated>2016-09-12T08:05:51.000Z</updated>
   <id>http://paranoidjk.github.io/</id>
   
   <author>
-    <name><![CDATA[paranoidjk]]></name>
+    <name>paranoidjk</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[2016 年度计划]]></title>
-    <link href="http://paranoidjk.github.io/2016-01-01-2016%E5%B9%B4%E5%BA%A6%E8%AE%A1%E5%88%92.html"/>
-    <id>http://paranoidjk.github.io/2016-01-01-2016年度计划.html</id>
-    <published>2015-12-31T16:00:00.000Z</published>
-    <updated>2015-12-30T15:02:47.000Z</updated>
-    <content type="html"><![CDATA[<blockquote>
-<p>All children, except one, grow up.  — J. M. Barrie，《The Adventures of Peter Pan》</p>
-</blockquote>
-<h2 id="一、学校·毕业"><a href="#一、学校·毕业" class="headerlink" title="一、学校·毕业"></a>一、学校·毕业</h2><p>如果把生活看做一本书，我猜2016年应该属于承前启后的 Chapter2，沉默和信息量大，上半年读最最最重要的事情就是顺利毕业</p>
-<ul>
-<li>毕设开题，导师，项目和论文上的事情,作别 HUST</li>
-<li>实习成绩单，毕设接收书，三方，文件和流程上的东西</li>
-</ul>
-<h2 id="二、生活·旅人"><a href="#二、生活·旅人" class="headerlink" title="二、生活·旅人"></a>二、生活·旅人</h2><p>虽然没看完<strong>《断捨離》</strong>，但对理念还是和赞同的，<del>“断绝不需要的东西；舍去多余的事物；脱离对物品的执着”</del>。<br>感觉这个标题还是很契合我当前阶段的，当下不杂，既往不恋，未来不迎。尽力摒弃以往不好的，为了适应工作和生活做出一些必要的调整，达到更好的生活状态。</p>
-<ul>
-<li>3月房租到期，找一个带厨房的新狗窝，要做史上最年轻的特级厨师</li>
-<li>最好有篮球场的小区，每周末坚持蹦跶蹦跶</li>
-<li>烫个卷毛，省的每天洗剪吹啦</li>
-<li>买一台 PS4，<a href="http://www.douban.com/people/hust2012jiangka/games?action=wish" target="_blank" rel="external">一些想玩的游戏</a></li>
-<li>毕业旅行，来一次中二脱宅之旅 — 东京、箱根 、秋叶原、新宿、镰仓</li>
-<li>晚上加班，坚持去健身房锻炼</li>
-<li>最高目标，吃早餐，不熬夜！有一个不同于大学的健康生物钟</li>
-<li>逐渐脱离动漫和网文，转向 BBC 纪录片和 kindle库存，多读英文</li>
-</ul>
-<h2 id="三、工作"><a href="#三、工作" class="headerlink" title="三、工作"></a>三、工作</h2><p>工作上的事情也不好多说，暂时在适应和摸索期，目标在毕业之前完成角色转变，找到专注的方向和成熟的节奏</p>
-<ul>
-<li>一些感兴趣的方向<ul>
-<li>IM业务SDK，重构（KPI）</li>
-<li>Node（深入）</li>
-<li>组件库（贡献度）</li>
-<li>react，isomorphic， redux，koa，无线基础</li>
-<li>React Native（ app 容器）</li>
-</ul>
-</li>
-<li>眼界保持宽广，关注开源，保持每周末都有github commit，坚持自己的产出<ul>
-<li><a href="">yillia</a>：拿自己的VPS去跑node代理，提供instagram图片同步服务，帮忙修复yilia和hexo的一些问题</li>
-<li><a href="">gitlab-tree</a>: 支持新版gitlab-ui的改版</li>
-<li>chrome 插件（公司内部的和外部的几个idea）</li>
-<li>网盘搜索和下载的mac app</li>
-<li>学学swift，产出自己的第一个IOS APP</li>
-<li>做一个android app， JAVA or RN</li>
-<li>网易云和豆瓣fm 导入，or 爬虫</li>
-</ul>
-</li>
-<li>产品，项目管理，移动端</li>
-</ul>
-<a id="more"></a>
-<h2 id="四、技术·阅读"><a href="#四、技术·阅读" class="headerlink" title="四、技术·阅读"></a>四、技术·阅读</h2><blockquote>
-<p>随时更新：书名（已完成程度）<br>基本是拖拉已久的 <a href="http://www.douban.com/people/hust2012jiangka/" target="_blank" rel="external">豆瓣</a> 想读计划</p>
-</blockquote>
-<ul>
-<li><p>JS/NodeJS</p>
-<ul>
-<li>Javascript dom 编程艺术（95%）</li>
-<li>javascript高级程序设计 （80%）</li>
-<li>深入浅出NodeJS（15%）</li>
-<li>Javascript语言精粹 | Javascipt, The Good Parts（95%）</li>
-<li>Javascript编程精解</li>
-<li>编写可维护的JavaScript</li>
-<li>JavaScript模式 | Javascript Patterns</li>
-<li>JavaScript设计模式</li>
-<li>高性能Javascript | High Performance Javascript</li>
-<li><p>Jquery从菜鸟到忍者</p>
-<blockquote>
-<p>对应选读 Javascript权威指南</p>
-</blockquote>
-</li>
-</ul>
-</li>
-<li><p>Html/CSS</p>
-<ul>
-<li>HTML5高级程序设计</li>
-<li>响应式Web设计实践</li>
-<li>网站重构</li>
-</ul>
-</li>
-<li><p>工程/模式/系统/性能/安全</p>
-<ul>
-<li>构建之法 : 现代软件工程</li>
-<li>UNIX编程艺术</li>
-<li>高性能网站建设指南1、2</li>
-<li>白帽子讲Web安全</li>
-</ul>
-</li>
-<li><p>体验/设计</p>
-<ul>
-<li>用户体验的要素 : 以用户为中心的Web设计</li>
-<li>用户体验要素 : 以用户为中心的产品设计</li>
-<li>点石成金 : 访客至上的网页设计秘笈</li>
-<li>瞬间之美</li>
-</ul>
-</li>
-<li><p>源码</p>
-<ul>
-<li>koa系</li>
-<li>redux系</li>
-<li>…</li>
-</ul>
-</li>
-</ul>
-<h2 id="五、技术·开源"><a href="#五、技术·开源" class="headerlink" title="五、技术·开源"></a>五、技术·开源</h2><blockquote>
-<ul>
-<li>基本是GitHub <a href="https://github.com/paranoidjk" target="_blank" rel="external">star</a> 扫除计划，之前已经清楚了积累的pocket，evernote，rss，下一步打算逐渐清理github star，微博收藏，chrome书签，轻装上阵</li>
-<li>参考 <a href="http://www.awesomes.cn/" target="_blank" rel="external">http://www.awesomes.cn/</a> , <a href="http://div.io/digg" target="_blank" rel="external">http://div.io/digg</a></li>
-</ul>
-</blockquote>
-<ul>
-<li>动画<ul>
-<li>animate.css</li>
-<li>impress.js</li>
-<li>skrollr</li>
-<li>Hover</li>
-<li>SpinKit/loaders.css</li>
-</ul>
-</li>
-</ul>
-<h2 id="六、博客·GitBook"><a href="#六、博客·GitBook" class="headerlink" title="六、博客·GitBook"></a>六、博客·GitBook</h2><blockquote>
-<p>集中性的读一些博客，专栏，坚持每月都有博客更新</p>
-</blockquote>
-<ul>
-<li>国外<ul>
-<li><a href="https://uptodate.frontendrescue.org/zh/" target="_blank" rel="external">https://uptodate.frontendrescue.org/zh/</a></li>
-</ul>
-</li>
-<li>国内<ul>
-<li><a href="http://www.alloyteam.com/" target="_blank" rel="external">http://www.alloyteam.com/</a></li>
-<li><a href="http://taobaofed.org/" target="_blank" rel="external">http://taobaofed.org/</a></li>
-<li><a href="http://fex.baidu.com/" target="_blank" rel="external">http://fex.baidu.com/</a></li>
-<li><a href="http://blog.fens.me/" target="_blank" rel="external">http://blog.fens.me/</a></li>
-</ul>
-</li>
-<li><p>自己的 GitBook</p>
-<ul>
-<li>F2E DOC</li>
-<li>…</li>
-</ul>
-<img src="/back_to_the_sea.png" alt="back to the sea !" title="back to the sea !">
-</li>
-</ul>
-]]></content>
+    <title>test</title>
+    <link href="http://paranoidjk.github.io/2016-09-12-test.html"/>
+    <id>http://paranoidjk.github.io/2016-09-12-test.html</id>
+    <published>2016-09-12T08:05:51.000Z</published>
+    <updated>2016-09-12T08:05:51.000Z</updated>
+    
+    <content type="html"></content>
+    
     <summary type="html">
-    <![CDATA[<blockquote>
-<p>All children, except one, grow up.  — J. M. Barrie，《The Adventures of Peter Pan》</p>
-</blockquote>
-<h2 id="一、学校·毕业"><a href="#一、学校·毕业" class="headerlink" title="一、学校·毕业"></a>一、学校·毕业</h2><p>如果把生活看做一本书，我猜2016年应该属于承前启后的 Chapter2，沉默和信息量大，上半年读最最最重要的事情就是顺利毕业</p>
-<ul>
-<li>毕设开题，导师，项目和论文上的事情,作别 HUST</li>
-<li>实习成绩单，毕设接收书，三方，文件和流程上的东西</li>
-</ul>
-<h2 id="二、生活·旅人"><a href="#二、生活·旅人" class="headerlink" title="二、生活·旅人"></a>二、生活·旅人</h2><p>虽然没看完<strong>《断捨離》</strong>，但对理念还是和赞同的，<del>“断绝不需要的东西；舍去多余的事物；脱离对物品的执着”</del>。<br>感觉这个标题还是很契合我当前阶段的，当下不杂，既往不恋，未来不迎。尽力摒弃以往不好的，为了适应工作和生活做出一些必要的调整，达到更好的生活状态。</p>
-<ul>
-<li>3月房租到期，找一个带厨房的新狗窝，要做史上最年轻的特级厨师</li>
-<li>最好有篮球场的小区，每周末坚持蹦跶蹦跶</li>
-<li>烫个卷毛，省的每天洗剪吹啦</li>
-<li>买一台 PS4，<a href="http://www.douban.com/people/hust2012jiangka/games?action=wish">一些想玩的游戏</a></li>
-<li>毕业旅行，来一次中二脱宅之旅 — 东京、箱根 、秋叶原、新宿、镰仓</li>
-<li>晚上加班，坚持去健身房锻炼</li>
-<li>最高目标，吃早餐，不熬夜！有一个不同于大学的健康生物钟</li>
-<li>逐渐脱离动漫和网文，转向 BBC 纪录片和 kindle库存，多读英文</li>
-</ul>
-<h2 id="三、工作"><a href="#三、工作" class="headerlink" title="三、工作"></a>三、工作</h2><p>工作上的事情也不好多说，暂时在适应和摸索期，目标在毕业之前完成角色转变，找到专注的方向和成熟的节奏</p>
-<ul>
-<li>一些感兴趣的方向<ul>
-<li>IM业务SDK，重构（KPI）</li>
-<li>Node（深入）</li>
-<li>组件库（贡献度）</li>
-<li>react，isomorphic， redux，koa，无线基础</li>
-<li>React Native（ app 容器）</li>
-</ul>
-</li>
-<li>眼界保持宽广，关注开源，保持每周末都有github commit，坚持自己的产出<ul>
-<li><a href="">yillia</a>：拿自己的VPS去跑node代理，提供instagram图片同步服务，帮忙修复yilia和hexo的一些问题</li>
-<li><a href="">gitlab-tree</a>: 支持新版gitlab-ui的改版</li>
-<li>chrome 插件（公司内部的和外部的几个idea）</li>
-<li>网盘搜索和下载的mac app</li>
-<li>学学swift，产出自己的第一个IOS APP</li>
-<li>做一个android app， JAVA or RN</li>
-<li>网易云和豆瓣fm 导入，or 爬虫</li>
-</ul>
-</li>
-<li>产品，项目管理，移动端</li>
-</ul>]]>
     
     </summary>
     
-      <category term="2016" scheme="http://paranoidjk.github.io/tags/2016/"/>
-    
-      <category term="年度计划" scheme="http://paranoidjk.github.io/tags/%E5%B9%B4%E5%BA%A6%E8%AE%A1%E5%88%92/"/>
     
   </entry>
   
